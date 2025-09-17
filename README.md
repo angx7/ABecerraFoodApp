@@ -50,8 +50,8 @@ app/
 
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/abecerra-food-app.git
-   cd abecerra-food-app
+   git clone https://github.com/angx7/ABecerraFoodApp.git
+   cd ABecerraFoodApp
    ```
 
 2. Abre el proyecto en **Android Studio** (versión Flamingo o superior recomendada).  
