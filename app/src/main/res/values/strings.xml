@@ -2,4 +2,5 @@
     <string name="app_name">ABecerraFoodApp</string>
     <string name="greeting_message">Hola, %1$s</string>
     <string name="our_categories">Nuestras categorías</string>
+    <string name="popular_restaurants">Busca los mejores restaurantes</string>
 </resources>

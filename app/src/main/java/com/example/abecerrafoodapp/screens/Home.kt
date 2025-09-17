@@ -23,6 +23,9 @@ fun Home(innerPadding : PaddingValues) {
 
             // Carga de las categorías
             Categories()
+
+            // Busca los restaurantes
+            Best_restaurants()
         }
     }
 }
