@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ABecerraFoodApp</string>
+    <string name="greeting_message">Hola, %1$s</string>
 </resources>
