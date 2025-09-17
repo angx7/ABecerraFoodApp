@@ -1,7 +1,6 @@
 package com.example.abecerrafoodapp.components
 
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
@@ -45,7 +44,7 @@ fun Best_restaurants() {
             ) {
                 Card(
                     modifier = Modifier.size(105.dp),
-                    shape = RoundedCornerShape(12.dp), // puedes ajustar el radio
+                    shape = RoundedCornerShape(12.dp),
                     colors = CardDefaults.cardColors(containerColor = Color.Transparent),
                 ) {
                     AsyncImage(
@@ -64,10 +63,7 @@ fun Best_restaurants() {
                     modifier = Modifier
                         .padding(top = 5.dp)
                 )
-
-
             }
-
         }
     }
 }

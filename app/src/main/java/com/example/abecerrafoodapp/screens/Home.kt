@@ -26,6 +26,9 @@ fun Home(innerPadding : PaddingValues) {
 
             // Busca los restaurantes
             Best_restaurants()
+
+            // Mejores platillos
+            Best_dishes()
         }
     }
 }
